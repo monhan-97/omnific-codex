@@ -1,0 +1,6 @@
+interface:
+  display_name: "Changesets Package Release"
+  short_description: "Version, publish, and verify pnpm workspace packages"
+  default_prompt: "Use $changesets-package-release to prepare and publish the changed packages in this workspace."
+policy:
+  allow_implicit_invocation: true

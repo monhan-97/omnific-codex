@@ -1,0 +1,6 @@
+interface:
+  display_name: "OpenAPI API Change Workflow"
+  short_description: "Synchronize API behavior with OpenAPI contracts"
+  default_prompt: "Use $openapi-api-change-workflow to implement this endpoint change and keep its OpenAPI contract synchronized."
+policy:
+  allow_implicit_invocation: true

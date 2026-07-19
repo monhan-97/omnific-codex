@@ -1,0 +1,25 @@
+{
+  "name": "omnific-development",
+  "version": "0.1.0+codex.20260719152419",
+  "description": "Shared engineering workflows for Omnific TypeScript, React, OpenAPI, Git, Graphify, and package release projects.",
+  "author": {
+    "name": "huangmenghan"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Omnific Development",
+    "shortDescription": "Shared workflows for Omnific repositories.",
+    "longDescription": "Reusable engineering standards and task workflows shared by Omnific TypeScript, React, REST API, Graphify, Git, and package release repositories.",
+    "developerName": "huangmenghan",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Apply the shared Omnific coding standards to this change.",
+      "Prepare conventional commits from the staged changes.",
+      "Keep API behavior and OpenAPI documentation synchronized."
+    ]
+  }
+}

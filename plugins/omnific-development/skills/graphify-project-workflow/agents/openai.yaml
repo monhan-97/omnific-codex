@@ -1,0 +1,6 @@
+interface:
+  display_name: "Graphify Project Workflow"
+  short_description: "Navigate and refresh Graphify-enabled repositories"
+  default_prompt: "Use $graphify-project-workflow to analyze this repository through its knowledge graph."
+policy:
+  allow_implicit_invocation: true

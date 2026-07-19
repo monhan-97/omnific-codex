@@ -1,0 +1,20 @@
+{
+  "name": "omnific",
+  "interface": {
+    "displayName": "Omnific"
+  },
+  "plugins": [
+    {
+      "name": "omnific-development",
+      "source": {
+        "source": "local",
+        "path": "./plugins/omnific-development"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

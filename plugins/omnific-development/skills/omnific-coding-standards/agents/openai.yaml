@@ -1,0 +1,6 @@
+interface:
+  display_name: "Omnific Coding Standards"
+  short_description: "Apply shared TypeScript and public API conventions"
+  default_prompt: "Use $omnific-coding-standards to implement this change consistently with the repository rules."
+policy:
+  allow_implicit_invocation: true

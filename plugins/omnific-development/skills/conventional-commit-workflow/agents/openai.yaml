@@ -1,0 +1,6 @@
+interface:
+  display_name: "Conventional Commit Workflow"
+  short_description: "Group and commit staged changes without mixing work"
+  default_prompt: "Use $conventional-commit-workflow to prepare commits from the current staged changes."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "React Project Conventions"
+  short_description: "Apply shared React component and styling conventions"
+  default_prompt: "Use $react-project-conventions to implement this React change using the repository's component and style rules."
+policy:
+  allow_implicit_invocation: true
