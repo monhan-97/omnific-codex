@@ -1,6 +1,6 @@
 {
   "name": "omnific-development",
-  "version": "0.1.0+codex.20260725141259",
+  "version": "0.1.0+codex.20260725142916",
   "description": "Shared engineering workflows for Omnific TypeScript, React, OpenAPI, Git, Graphify, and package release projects.",
   "author": {
     "name": "huangmenghan"
