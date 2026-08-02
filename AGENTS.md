@@ -13,6 +13,10 @@
 - 本地迭代时，使用 `plugin-creator` 更新 Plugin 的 cachebuster，然后重新安装 Plugin。
 - 更新后提示用户新开 Codex 线程，以加载新的 Skill。
 
+## 代码与测试
+
+- 不要为了方便编写单元测试而破坏原有的代码结构。
+
 ## Git
 
 - 使用英文 Conventional Commits。
