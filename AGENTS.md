@@ -11,6 +11,7 @@
 - 创建或更新 Skill 时，使用 `skill-creator` 的流程。
 - 修改 Plugin 后，运行 Skill 与 Plugin 的官方校验。
 - 本地迭代时，使用 `plugin-creator` 更新 Plugin 的 cachebuster，然后重新安装 Plugin。
+- 如果包内的代码改动很小，且未改变使用者可观察到的行为，例如仅进行了语义等价的条件或代码位置调整，则可以不发布该包。
 - 更新后提示用户新开 Codex 线程，以加载新的 Skill。
 
 ## 代码与测试
